@@ -1,0 +1,21 @@
+body{
+    background: url("../image/gym.jpeg")
+    no-repeat center center fixed;
+    background-size:cover;
+    }
+div{
+    background-color:lightblue;
+    font-family: 'Gloria Hallelujah', cursive;
+    width:60%;
+    margin: 100px auto; 
+    text-align: center; 
+    border-radius: 25px;
+    opacity: .8;
+    }
+button{
+    background: orange;
+    padding: 20px;
+    color:blue;
+    font-size: 2em;
+    border-radius: 25px;
+}
